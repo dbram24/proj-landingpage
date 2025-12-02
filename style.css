@@ -1,8 +1,15 @@
+@import url('fonts.googleapis.com');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
 .header {
     margin: 12px 12px 24px 12px;
+    padding-bottom: 24px;
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background-color: #1f2937;
 }
 
 ul {
