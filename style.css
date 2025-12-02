@@ -1,7 +1,12 @@
 .header {
-    padding: 6px;
-    margin: 24px;
+    margin: 12px 12px 24px 12px;
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+
+ul {
+    display: flex;
+    gap: 24px;
+    list-style-type: none;
 }
