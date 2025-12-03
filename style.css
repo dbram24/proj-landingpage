@@ -13,3 +13,9 @@ body {
     justify-content: space-around;
     padding-top: 24px;
 }
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
