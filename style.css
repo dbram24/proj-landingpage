@@ -10,5 +10,6 @@ body {
 
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    padding-top: 24px;
 }
