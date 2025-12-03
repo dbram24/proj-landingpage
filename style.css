@@ -1,23 +1,9 @@
-@import url('fonts.googleapis.com');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
     font-family: 'Roboto', sans-serif;
-}
-.header {
-    margin: 12px 12px 24px 12px;
-    padding-bottom: 24px;
     display: flex;
-    align-items: center;
-    justify-content: space-around;
-    background-color: #1f2937;
-}
-
-ul {
-    display: flex;
-    gap: 24px;
-    list-style-type: none;
-}
-
-a {
-    text-decoration: none;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
 }
