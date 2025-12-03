@@ -19,3 +19,7 @@ ul {
     list-style: none;
     gap: 30px;
 }
+
+a {
+    text-decoration: none;
+}
