@@ -32,3 +32,11 @@ a {
     color: white;
     font-size: 18px;
 }
+
+.hero-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    width: 500px;
+}
