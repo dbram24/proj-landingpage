@@ -8,12 +8,17 @@ body {
     margin: 0;
 }
 
-.header {
+.header,
+.hero-banner {
     display: flex;
     justify-content: space-around;
-    padding: 24px;
+    padding: 12px 24px 60px 24px;
     background-color: #1f2937;
     color: white;
+}
+
+.hero-banner {
+    padding-top: 60px;
 }
 
 ul {
