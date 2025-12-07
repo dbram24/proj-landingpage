@@ -86,3 +86,9 @@ a {
     color: #1F2937;
     font-weight: 900;
 }
+
+.info-content {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+}
