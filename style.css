@@ -42,3 +42,11 @@ a {
     align-items: start;
     width: 500px;
 }
+
+.hero-main-text {
+    flex: 1 0 auto;
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+
+}
