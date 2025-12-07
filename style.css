@@ -80,3 +80,9 @@ a {
     padding-top: 40px;
     gap: 40px;
 }
+
+.info-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
