@@ -107,6 +107,7 @@ a {
     width: 200px;
     border-style: solid;
     border-color: blue;
+    border-radius: 25px;
 }
 
 .info-subtext {
