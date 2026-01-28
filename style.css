@@ -122,4 +122,6 @@ a {
 .quote-section{
     display: flex;
     flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
 }
