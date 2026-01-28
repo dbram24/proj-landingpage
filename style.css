@@ -126,3 +126,10 @@ a {
     background-color: #E5E7EB;
     padding: 100px 25vw;
 }
+
+.quote{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
