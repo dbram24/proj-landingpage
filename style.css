@@ -158,11 +158,11 @@ a {
 
 .call-to-action-box{
     background-color: #3882f6;
-    flex-basis: 78vw;
+    flex-basis: 70vw;
     height: 13vh;
     border-radius: 15px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding: 10px;
 }
