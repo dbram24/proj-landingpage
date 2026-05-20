@@ -161,5 +161,9 @@ a {
     flex-basis: 78vw;
     height: 13vh;
     border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
 }
 
