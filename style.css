@@ -167,3 +167,12 @@ a {
     padding: 10px;
 }
 
+.call-to-action-text,
+.cta-sign-up{
+    color: white;
+}
+
+.top-text{
+    font-weight: bold;
+    font-size: 24px;
+}
