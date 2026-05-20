@@ -155,3 +155,9 @@ a {
     display: flex;
     justify-content: center;
 }
+
+.call-to-action-box{
+    background-color: #3882f6;
+    flex-basis: 75vw;
+    height: 13vh;
+}
