@@ -28,6 +28,7 @@ body {
 
 .hero-banner {
     padding-top: 60px;
+    gap: 50px;
 }
 
 ul {
