@@ -69,6 +69,9 @@ a {
     background-color: gray;
     flex-basis: 450px;
     height: 216px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .sign-up {
