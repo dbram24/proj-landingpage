@@ -185,3 +185,7 @@ a {
     border-width: 3px;
     border-style: solid;
 }
+
+.footer{
+    display: flex;
+}
