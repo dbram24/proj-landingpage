@@ -189,7 +189,7 @@ a {
 .footer{
     display: flex;
     justify-content: center;
-    padding: 12px 20vw 45px;
+    padding: 30px 20vw;
     background-color: #1f2937;
     color: white;
 }
